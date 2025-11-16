@@ -38,5 +38,10 @@
     "start_time": "2025-11-16T09:00:00Z",
     "xp_per_minute": -0.5,
     "comment": "Начал писать программу-трекер Life XP Panel"
+  },
+  {
+    "start_time": "2025-11-16T13:14:28Z",
+    "xp_per_minute": 0.5,
+    "comment": "Тестирую программу"
   }
 ]
