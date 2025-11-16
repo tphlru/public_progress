@@ -33,5 +33,10 @@
     "start_time": "2025-11-16T13:07:16Z",
     "xp_per_minute": 0,
     "comment": "6H СПРИНТ НАЧАТ"
+  },
+  {
+    "start_time": "2025-11-16T09:00:00Z",
+    "xp_per_minute": -0.5,
+    "comment": "Начал писать программу-трекер Life XP Panel"
   }
 ]
