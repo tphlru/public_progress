@@ -18,5 +18,20 @@
     "start_time": "2025-11-16T08:59:00Z",
     "xp_per_minute": 0.5,
     "comment": "Дела по дому"
+  },
+  {
+    "start_time": "2025-11-16T08:59:00Z",
+    "xp_per_minute": -0.5,
+    "comment": "Кодил"
+  },
+  {
+    "start_time": "2025-11-16T10:30:00Z",
+    "xp_per_minute": -1,
+    "comment": "Обедал"
+  },
+  {
+    "start_time": "2025-11-16T11:00:00Z",
+    "xp_per_minute": -0.5,
+    "comment": "Кодил"
   }
 ]
