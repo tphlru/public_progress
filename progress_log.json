@@ -138,5 +138,10 @@
     "start_time": "2025-11-17T17:40:00Z",
     "xp_per_minute": -1,
     "comment": "Перерыв"
+  },
+  {
+    "start_time": "2025-11-17T19:00:00Z",
+    "xp_per_minute": 0.167,
+    "comment": "Сон"
   }
 ]
