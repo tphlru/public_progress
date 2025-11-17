@@ -113,5 +113,30 @@
     "start_time": "2025-11-17T14:10:00Z",
     "xp_per_minute": 2,
     "comment": "Решение математики"
+  },
+  {
+    "start_time": "2025-11-17T14:30:00Z",
+    "xp_per_minute": -1,
+    "comment": "Ужин"
+  },
+  {
+    "start_time": "2025-11-17T15:00:00Z",
+    "xp_per_minute": 0.5,
+    "comment": "Проектирование в onshape"
+  },
+  {
+    "start_time": "2025-11-17T15:30:00Z",
+    "xp_per_minute": 0.5,
+    "comment": "Домашнее задание по английскому"
+  },
+  {
+    "start_time": "2025-11-17T16:00:00Z",
+    "xp_per_minute": 1.5,
+    "comment": "Урок английского"
+  },
+  {
+    "start_time": "2025-11-17T17:40:00Z",
+    "xp_per_minute": -1,
+    "comment": "Перерыв"
   }
 ]
