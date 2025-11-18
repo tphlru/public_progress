@@ -163,5 +163,10 @@
     "start_time": "2025-11-18T08:00:00Z",
     "xp_per_minute": -0.5,
     "comment": "CLI tinkering"
+  },
+  {
+    "start_time": "2025-11-18T08:30:00Z",
+    "xp_per_minute": 0.167,
+    "comment": "восстановление"
   }
 ]
