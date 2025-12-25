@@ -168,5 +168,20 @@
     "start_time": "2025-11-18T08:30:00Z",
     "xp_per_minute": 0.167,
     "comment": "восстановление"
+  },
+  {
+    "start_time": "2025-12-24T21:00:00Z",
+    "xp_per_minute": 0.1667,
+    "comment": "Сон"
+  },
+  {
+    "start_time": "2025-12-25T06:30:00Z",
+    "xp_per_minute": 0.5,
+    "comment": "Завтрак и планирование"
+  },
+  {
+    "start_time": "2025-12-25T06:45:00Z",
+    "xp_per_minute": 1.5,
+    "comment": "Подготовка к русскому"
   }
 ]
