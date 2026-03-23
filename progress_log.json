@@ -188,5 +188,10 @@
     "start_time": "2026-03-23T12:30:00Z",
     "xp_per_minute": 0.5,
     "comment": "начал гулять"
+  },
+  {
+    "start_time": "2026-03-23T14:00:00Z",
+    "xp_per_minute": -1,
+    "comment": "Перекус и мороженое"
   }
 ]
